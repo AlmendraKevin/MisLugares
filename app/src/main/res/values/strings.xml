@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MisLugares</string>
+    <string name="accion_mostrar">Mostrar Lugares</string>
+    <string name="accion_preferencias">Preferencias</string>
+    <string name="accion_acerca_de">Acerca de</string>
+    <string name="accion_salir">Salir</string>
+    <string name="nombre_lugar">Nombre</string>
+    <string name="tipo_lugar">Tipo</string>
+    <string name="direccion_lugar">Direccion</string>
+    <string name="telefono_lugar">Telefono</string>
+    <string name="url_lugar">URL</string>
+    <string name="comentario_lugar">Comentario</string>
+    <string name="nombre_pista">Ingresa el nombre del lugar</string>
+    <string name="tipo_pista">Selecciona el tipo de lugar</string>
+    <string name="direccion_pista">Ingresa la direccion del lugar</string>
+    <string name="telefono_pista">Telefono de contacto</string>
+    <string name="url_pista">Sitio Web</string>
+    <string name="comentario_pista">Ingresa algun comentario del lugar</string>
+    <string name="sobre_mi">Este programa ha sido desarrollado como un
+        proyecto para llevar en la clase de Aplicaciones Web impartido
+        en la UABC. Programado por Kevin Almendra siguiendo el curso.
+    </string>
+    <string name="tool_buscar">Buscar</string>
+</resources>
